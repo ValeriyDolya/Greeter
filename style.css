@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(230, 225, 225);
+}
+.container {
+    max-width: 900px;
+    margin: 50px auto 0;
+    border: 4px solid;
+    border-radius: 12px;
+    background-color: rgb(233, 233, 207);
+    padding: 20px;
+ }
+.title { 
+    color: rgb(34, 34, 165);
+    letter-spacing: 4px;
+}
+.name, .age { 
+    color: rgb(98, 98, 124);
+}
+.age { }
